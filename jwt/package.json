@@ -24,7 +24,7 @@
     "babel-plugin-component": "^1.1.1",
     "node-sass": "^4.9.2",
     "postcss-load-config": "^2.1.0",
-    "sass-loader": "^7.0.3",
+    "sass-loader": "^13.2.0",
     "vue-cli-plugin-element": "^1.0.1"
   },
   "keywords": [],
